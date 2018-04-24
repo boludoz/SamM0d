@@ -19,13 +19,14 @@ Func CheckZoomOut($sSource = "CheckZoomOut", $bCheckOnly = False, $bForecCapture
 	EndIf
 	Local $aVillageResult = SearchZoomOut(False, True, $sSource, False)
 	If IsArray($aVillageResult) = 0 Or $aVillageResult[0] = "" Then
-		; not zoomed out, Return
-		If $bCheckOnly = False Then
-			SetLog("Not Zoomed Out! Exiting to MainScreen...", $COLOR_ERROR)
+ 		; not zoomed out, Return
+ 		If $bCheckOnly = False Then
+ 			SetLog("Not Zoomed Out! Exiting...", $COLOR_ERROR)
+			checkObstacles_ReloadCoC()
 			checkMainScreen() ;exit battle screen
-			$g_bRestart = True ; Restart Attack
-			$g_bIsClientSyncError = True ; quick restart
-		EndIf
+ 			$g_bRestart = True ; Restart Attack
+ 			$g_bIsClientSyncError = True ; quick restart
+ 		EndIf
 		Return False
 	EndIf
 	Return True

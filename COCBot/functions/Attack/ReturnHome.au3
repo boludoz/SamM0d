@@ -181,10 +181,14 @@ Func ReturnHome($TakeSS = 1, $GoldChangeCheck = True) ;Return main screen
 		If StarBonus() Then SetLog("Star Bonus window closed chief!", $COLOR_INFO) ; Check for Star Bonus window to fill treasury (2016-01) update
 		If ReturnHomeMainPage() Then Return
 		$counter += 1
-		If $counter >= 50 Or isProblemAffect(True) Then
-			SetLog("Cannot return home.", $COLOR_ERROR)
-			checkMainScreen()
-			Return
+		If $counter >= 40 Or isProblemAffect(True) Then 
+ 			SetLog("Cannot return home.", $COLOR_ERROR)
+			CheckMainScreen()
+		Else
+		 $counter >= 60 Then
+ 			SetLog("Cannot return home. Restarting", $COLOR_ERROR)
+			checkObstacles_ReloadCoC()
+ 			Return
 		EndIf
 	WEnd
 EndFunc   ;==>ReturnHome
