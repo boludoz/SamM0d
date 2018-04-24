@@ -1,0 +1,181 @@
+0: D [2018-04-24 12:00:58.131] Created log file: C:\Users\fabri\OneDrive\Escritorio\Franco\mybot\SamM0d\Profiles\MyVillage\Logs\2018-04-24_12.00.58.log
+0: D [2018-04-24 12:00:58.132] Full Command Line: 0
+0: D [2018-04-24 12:00:58.132] @AutoItExe: C:\Users\fabri\OneDrive\Escritorio\Franco\mybot\SamM0d\MyBot.run.exe
+0: D [2018-04-24 12:00:58.132] @ScriptFullPath: C:\Users\fabri\OneDrive\Escritorio\Franco\mybot\SamM0d\MyBot.run.exe
+0: D [2018-04-24 12:00:58.133] @WorkingDir: C:\Users\fabri\OneDrive\Escritorio\Franco\mybot\SamM0d
+0: D [2018-04-24 12:00:58.133] @AutoItPID: 8588
+0: D [2018-04-24 12:00:58.134] @OSArch: X64
+0: D [2018-04-24 12:00:58.134] @OSVersion: WIN_10
+0: D [2018-04-24 12:00:58.134] @OSBuild: 17127
+0: D [2018-04-24 12:00:58.134] @OSServicePack: 
+0: D [2018-04-24 12:00:58.135] Primary Display: 1920 x 1080 - 32bit
+0: D [2018-04-24 12:00:58.127] MyBot.run/API/1.1 Message ID = 49969
+0: D [2018-04-24 12:00:58.128] MyBot.run/STATE/1.1 Message ID = 49919
+0: D [2018-04-24 12:00:58.129] SetupProfileFolder: C:\Users\fabri\OneDrive\Escritorio\Franco\mybot\SamM0d\Profiles\MyVillage
+0: L [2018-04-24 12:00:58.130] ====================== BOT LOG ======================
+0: D [2018-04-24 12:00:58.136] Created attack log file: C:\Users\fabri\OneDrive\Escritorio\Franco\mybot\SamM0d\Profiles\SwitchAccLog-2018-04.log
+0: D [2018-04-24 12:00:58.137] readConfig(), call number 1
+0: D [2018-04-24 12:00:58.146] Read Building Config C:\Users\fabri\OneDrive\Escritorio\Franco\mybot\SamM0d\Profiles\MyVillage\building.ini
+0: D [2018-04-24 12:00:58.156] Read Config C:\Users\fabri\OneDrive\Escritorio\Franco\mybot\SamM0d\Profiles\MyVillage\config.ini
+0: L [2018-04-24 12:00:58.162] Android Emulator MEmu
+0: D [2018-04-24 12:00:58.162] UpdateAndroidConfig("MEmu")
+0: D [2018-04-24 12:00:58.163] InitAndroid(False): MEmu
+0: D [2018-04-24 12:00:58.794] Using Window sizes of MEmu 3.0.8
+0: D [2018-04-24 12:00:58.794] MEmu phone_layout is 2, but set to -1 to disable screen compensation
+0: D [2018-04-24 12:00:58.795] Searching MEmu Window: Title = 'MEmu ', Class = '[CLASS:subWin; INSTANCE:1]', Text = ''
+0: D [2018-04-24 12:00:58.795] WMI Query: Select Handle,ExecutablePath,CommandLine from Win32_Process where ExecutablePath like '%f:\\Program Files\\Microvirt\\MEmu\\MEmu.exe%'
+0: D [2018-04-24 12:00:58.828] Process by CommandLine not found: f:\Program Files\Microvirt\MEmu\MEmu.exe MEmu
+0: D [2018-04-24 12:00:58.829] WMI Query: Select Handle,ExecutablePath,CommandLine from Win32_Process where ExecutablePath like '%f:\\Program Files\\Microvirt\\MEmu\\MEmu.exe%'
+0: D [2018-04-24 12:00:58.856] Process by CommandLine not found: f:\Program Files\Microvirt\MEmu\MEmu.exe
+0: D [2018-04-24 12:00:58.856] MEmu (MEmu) Window not found in list
+0: D [2018-04-24 12:00:58.857] Android Emulator not launched
+0: D [2018-04-24 12:00:58.857] Using Window sizes of MEmu 3.0.8
+0: D [2018-04-24 12:00:58.858] MEmu Tool Bar state is undetermined as treated as visible
+0: D [2018-04-24 12:00:58.858] MEmu Window Width updated from 911 to 900
+0: D [2018-04-24 12:00:58.858] MEmu Window Height updated from 768 to 766
+0: D [2018-04-24 12:00:58.859] Disabled WerFault for MEmu.exe
+0: D [2018-04-24 12:00:58.919] DirectX/OpenGL Fix applied for Windows Build 16299
+0: D [2018-04-24 12:00:58.920] MEmu instance MEmu rendering mode is 1
+0: D [2018-04-24 12:00:58.920] MEmu (MEmu) is using OpenGL, disable WinAPI for Background Mode
+0: D [2018-04-24 12:00:58.921] Enable ADB screencap for Background Mode
+0: D [2018-04-24 12:00:58.922] Android: MEmu
+0: D [2018-04-24 12:00:58.922] Android Config: 1
+0: D [2018-04-24 12:00:58.922] Android Version: 3.7.0.0
+0: D [2018-04-24 12:00:58.922] Android Instance: MEmu
+0: D [2018-04-24 12:00:58.923] Android Window Title: MEmu 
+0: D [2018-04-24 12:00:58.923] Android Program Path: f:\Program Files\Microvirt\MEmu\MEmu.exe
+0: D [2018-04-24 12:00:58.923] Android Program Parameter: MEmu
+0: D [2018-04-24 12:00:58.924] Android Program FileVersionInfo: 1033,,Microvirt Software Technology Co. Ltd.,MEmu App Player,3.7.0.0,MEmu.exe,Copyright (C) 2016 Microvirt Software Technology Co. Ltd. All rights reserved,,MEmu.exe,MEmu App Player,3.7.0.0,,
+0: D [2018-04-24 12:00:58.924] Android SecureME setting: 3
+0: D [2018-04-24 12:00:58.924] Android ADB Path: f:\Program Files\Microvirt\MEmu\adb.exe
+0: D [2018-04-24 12:00:58.925] Android VBoxManage Path: f:\Program Files\Microvirt\MEmu\..\MEmuHyperv\MEmuManage.exe
+0: D [2018-04-24 12:00:58.925] Android ADB Device: 127.0.0.1:21503
+0: D [2018-04-24 12:00:58.925] Android ADB Shared Folder: /mnt/shell/emulated/0/Pictures/
+0: D [2018-04-24 12:00:58.926] Android ADB Shared Folder on Host: C:\Users\fabri\Pictures\MEmu Fotos\
+0: D [2018-04-24 12:00:58.926] Android ADB Shared SubFolder: 
+0: D [2018-04-24 12:00:58.926] Android Mouse Device: (Microvirt Virtual Input|User Input)
+0: D [2018-04-24 12:00:58.927] Android ADB screencap command enabled: True
+0: D [2018-04-24 12:00:58.927] Android ADB input command enabled: True
+0: D [2018-04-24 12:00:58.927] Android ADB Mouse Click enabled: False
+0: D [2018-04-24 12:00:58.928] Android ADB Click Drag enabled: True
+0: D [2018-04-24 12:00:58.928] Bot Background Mode for screen capture: disabled
+0: D [2018-04-24 12:00:58.928] No Focus Tampering: False
+0: D [2018-04-24 12:00:58.929] Searching MEmu Window: Title = 'MEmu ', Class = '[CLASS:subWin; INSTANCE:1]', Text = ''
+0: D [2018-04-24 12:00:58.929] WMI Query: Select Handle,ExecutablePath,CommandLine from Win32_Process where ExecutablePath like '%f:\\Program Files\\Microvirt\\MEmu\\MEmu.exe%'
+0: D [2018-04-24 12:00:58.956] Process by CommandLine not found: f:\Program Files\Microvirt\MEmu\MEmu.exe MEmu
+0: D [2018-04-24 12:00:58.957] WMI Query: Select Handle,ExecutablePath,CommandLine from Win32_Process where ExecutablePath like '%f:\\Program Files\\Microvirt\\MEmu\\MEmu.exe%'
+0: D [2018-04-24 12:00:58.984] Process by CommandLine not found: f:\Program Files\Microvirt\MEmu\MEmu.exe
+0: D [2018-04-24 12:00:58.984] MEmu (MEmu) Window not found in list
+0: D [2018-04-24 12:00:58.985] Android Emulator not launched
+0: D [2018-04-24 12:00:58.985] InitAndroid(False): MEmu END, initialization successful = True, result = True
+0: D [2018-04-24 12:00:58.986] UpdateAndroidConfig("MEmu") END
+0: D [2018-04-24 12:00:59.123] Bot title updated to: My Bot v7.5.1 @Samkie M0d v1.3.8 
+0: D [2018-04-24 12:00:59.127] Aquired mutex ticket: Launching.1, 0x000003D4
+0: L [2018-04-24 12:00:59.143] Watchdog launched
+0: D [2018-04-24 12:01:04.086] SplashStep 1 of 18: Initializing Android...(4.95 sec)
+0: D [2018-04-24 12:01:04.088] SplashStep 2 of 18: Detecting Android...(4.95 sec)
+0: D [2018-04-24 12:01:04.089] Retrieving CoC distributors
+0: D [2018-04-24 12:01:04.090] C:\Users\fabri\Pictures\MEmu Fotos\ exists
+0: D [2018-04-24 12:01:05.140] ADB Shell instance not initialized, cannot execute: pm list packages clashofclans;pm list packages clashofmagic
+0: D [2018-04-24 12:01:05.142] Bot title updated to: My Bot v7.5.1 @Samkie M0d v1.3.8  (MEmu)
+0: D [2018-04-24 12:01:05.143] UpdateSplashTitle: My Bot v7.5.1 @Samkie M0d v1.3.8  (MEmu), Profile: MyVillage
+0: D [2018-04-24 12:01:05.148] Aquire Mutex for Profile: MyVillage
+0: D [2018-04-24 12:01:05.148] My Bot is the only running instance
+0: D [2018-04-24 12:01:05.149] SplashStep 3 of 18: Loading Main GUI...(6.02 sec)
+0: D [2018-04-24 12:01:05.169] SplashStep 4 of 18: Loading GUI Bottom...(6.03 sec)
+0: D [2018-04-24 12:01:05.186] AndroidToFront: Source chkBackground
+0: D [2018-04-24 12:01:05.220] SplashStep 5 of 18: Loading Log tab...(6.08 sec)
+0: D [2018-04-24 12:01:05.501] SplashStep 6 of 18: Loading Village tab...(6.36 sec)
+0: D [2018-04-24 12:01:06.597] SplashStep 7 of 18: Loading Attack tab...(7.45 sec)
+0: D [2018-04-24 12:01:09.217] SplashStep 8 of 18: Loading Bot tab...(10.08 sec)
+0: D [2018-04-24 12:01:09.400] Profiles found: MyVillage
+0: D [2018-04-24 12:01:10.745] SplashStep 9 of 18: Loading Bot tab...(11.61 sec)
+0: D [2018-04-24 12:01:10.755] SplashStep 10 of 18: Loading M0d - Attack tab...(11.63 sec)
+0: D [2018-04-24 12:01:10.903] SplashStep 11 of 18: Loading M0d - Attack II tab...(11.77 sec)
+0: D [2018-04-24 12:01:11.058] SplashStep 12 of 18: Loading M0d - Advanced Random Click tab...(11.92 sec)
+0: D [2018-04-24 12:01:11.065] SplashStep 13 of 18: Loading M0d - My Switch tab...(11.94 sec)
+0: D [2018-04-24 12:01:11.968] SplashStep 14 of 18: Loading M0d - My Troops tab...(12.83 sec)
+0: D [2018-04-24 12:01:12.365] SplashStep 15 of 18: Loading M0d - My Spells tab...(13.24 sec)
+0: D [2018-04-24 12:01:12.515] SplashStep 16 of 18: Loading M0d - My Clan Castle tab...(13.38 sec)
+0: D [2018-04-24 12:01:12.583] SplashStep 17 of 18: Loading M0d - Friend Challenge tab...(13.45 sec)
+0: D [2018-04-24 12:01:12.628] SplashStep 18 of 18: Loading M0d - Other tab...(13.49 sec)
+0: D [2018-04-24 12:01:13.011] Retrieving CoC distributors
+0: D [2018-04-24 12:01:13.011] C:\Users\fabri\Pictures\MEmu Fotos\ exists
+0: D [2018-04-24 12:01:14.055] ADB Shell instance not initialized, cannot execute: pm list packages clashofclans;pm list packages clashofmagic
+0: D [2018-04-24 12:01:14.056] SplashStep 19 of 18: Loading About Us tab...(14.92 sec)
+0: D [2018-04-24 12:01:14.064] SplashStep 20 of 18: Initializing GUI...(14.92 sec)
+0: D [2018-04-24 12:01:14.111] Redraw MyBot ControlIds (forced): 0x00023334, 0x00023328
+0: D [2018-04-24 12:01:14.111] Control ID 0x00023334 handle: 0x00023334 parent: 0x00023332 $g_hFrmBot: 0x000633C8 $g_hFrmBotEx: 0x000533BA Pos: 10, 133, 452, 303
+0: D [2018-04-24 12:01:14.111] Control ID 0x00023334 RedrawWindow Pos: 10, 133, 462, 436
+0: D [2018-04-24 12:01:14.112] Control ID 0x00023328 handle: 0x00023328 parent: 0x00023332 $g_hFrmBot: 0x000633C8 $g_hFrmBotEx: 0x000533BA Pos: 10, 440, 452, 101
+0: D [2018-04-24 12:01:14.112] Control ID 0x00023328 RedrawWindow Pos: 10, 440, 462, 541
+0: D [2018-04-24 12:01:14.114] $g_hFrmBot=0x000633C8
+0: D [2018-04-24 12:01:14.115] $g_hFrmBotEx=0x000533BA
+0: D [2018-04-24 12:01:14.115] $g_hFrmBotBottom=0x00023396
+0: D [2018-04-24 12:01:14.115] $g_hFrmBotEmbeddedShield=0
+0: D [2018-04-24 12:01:14.115] $g_hFrmBotEmbeddedShieldInput=19
+0: D [2018-04-24 12:01:14.116] $g_hFrmBotEmbeddedGraphics=0
+0: D [2018-04-24 12:01:14.119] Created attack log file: C:\Users\fabri\OneDrive\Escritorio\Franco\mybot\SamM0d\Profiles\MyVillage\Logs\AttackLog-2018-04.log
+0: D [2018-04-24 12:01:14.131] readConfig(), call number 2
+0: D [2018-04-24 12:01:14.139] Read Building Config C:\Users\fabri\OneDrive\Escritorio\Franco\mybot\SamM0d\Profiles\MyVillage\building.ini
+0: D [2018-04-24 12:01:14.150] Read Config C:\Users\fabri\OneDrive\Escritorio\Franco\mybot\SamM0d\Profiles\MyVillage\config.ini
+0: D [2018-04-24 12:01:14.296] applyConfig(), call number 1
+0: D [2018-04-24 12:01:14.296] Threading: Using 0 threads for parallelism
+0: D [2018-04-24 12:01:14.296] Threading: Using 0 threads shared across all bot instances
+0: D [2018-04-24 12:01:14.297] Disable MyBot Window Redraw: applyConfig
+0: D [2018-04-24 12:01:14.317] Bot title updated to: My Bot v7.5.1 @Samkie M0d v1.3.8  (MEmu)
+0: D [2018-04-24 12:01:14.658] Redraw MyBot Window: applyConfig
+0: D [2018-04-24 12:01:14.663] $g_sProfilePath = C:\Users\fabri\OneDrive\Escritorio\Franco\mybot\SamM0d\Profiles
+0: D [2018-04-24 12:01:14.664] $g_sProfileCurrentName = MyVillage
+0: D [2018-04-24 12:01:14.664] $g_sProfileLogsPath = C:\Users\fabri\OneDrive\Escritorio\Franco\mybot\SamM0d\Profiles\MyVillage\Logs\
+2: D [2018-04-24 12:01:14.671] Restore bot window to 722, 201, caller: GUIControl_WM_NCACTIVATE
+2: D [2018-04-24 12:01:14.735] MyBot.run.dll opened.
+2: D [2018-04-24 12:01:14.735] Threading: Using 0 threads shared across all bot instances
+2: D [2018-04-24 12:01:14.836] Threading: Using 0 threads for parallelism
+2: D [2018-04-24 12:01:14.836] Searching MEmu Window: Title = 'MEmu ', Class = '[CLASS:subWin; INSTANCE:1]', Text = ''
+2: D [2018-04-24 12:01:14.838] WMI Query: Select Handle,ExecutablePath,CommandLine from Win32_Process where ExecutablePath like '%f:\\Program Files\\Microvirt\\MEmu\\MEmu.exe%'
+2: D [2018-04-24 12:01:14.864] Process by CommandLine not found: f:\Program Files\Microvirt\MEmu\MEmu.exe MEmu
+2: D [2018-04-24 12:01:14.864] WMI Query: Select Handle,ExecutablePath,CommandLine from Win32_Process where ExecutablePath like '%f:\\Program Files\\Microvirt\\MEmu\\MEmu.exe%'
+2: D [2018-04-24 12:01:14.892] Process by CommandLine not found: f:\Program Files\Microvirt\MEmu\MEmu.exe
+2: D [2018-04-24 12:01:14.893] MEmu (MEmu) Window not found in list
+2: D [2018-04-24 12:01:14.893] Android Emulator not launched
+2: D [2018-04-24 12:01:14.898] WMI Query: Select Handle,ExecutablePath,CommandLine from Win32_Process where ExecutablePath like '%f:\\Program Files\\Microvirt\\MEmu\\MEmu.exe%'
+2: D [2018-04-24 12:01:14.924] Process by CommandLine not found: f:\Program Files\Microvirt\MEmu\MEmu.exe MEmu
+2: D [2018-04-24 12:01:14.925] WMI Query: Select Handle,ExecutablePath,CommandLine from Win32_Process where ExecutablePath like '%f:\\Program Files\\Microvirt\\MEmu\\MEmu.exe%'
+2: D [2018-04-24 12:01:14.951] Process by CommandLine not found: f:\Program Files\Microvirt\MEmu\MEmu.exe
+2: D [2018-04-24 12:01:14.952] MEmu (MEmu) process not found
+2: D [2018-04-24 12:01:14.952] setAndroidPID: $pid=0
+2: D [2018-04-24 12:01:14.967] Android PID=0 initialized: , Idle
+2: D [2018-04-24 12:01:14.967] debugMBRFunctions: $iDebugSearchArea=0, $iDebugRedArea=0, $giDebugOcr=0
+2: D [2018-04-24 12:01:15.471] SetBotGuiPID: $pid=8588
+2: D [2018-04-24 12:01:15.473] Bot GUI PID=8588 initialized: 8588
+2: L [2018-04-24 12:01:15.474] Android Emulator Configuration: MEmu (instance MEmu)
+2: L [2018-04-24 12:01:16.266] WELCOME CHIEF, YOU HAVE THE LATEST VERSION OF THE BOT
+2: L [2018-04-24 12:01:16.275]  
+2: L [2018-04-24 12:01:16.275] Works with December 2017 Update!
+2: L [2018-04-24 12:01:16.276] Plus new features and fixes
+2: L [2018-04-24 12:01:16.276] For more information, go to 
+2: L [2018-04-24 12:01:16.277] https://mybot.run
+2: L [2018-04-24 12:01:16.277]  Always free and open source.
+2: D [2018-04-24 12:01:16.278] Maximum of 2 bots running at same time configured
+2: D [2018-04-24 12:01:16.278] MyBot.run launch time 17391 ms.
+2: D [2018-04-24 12:01:29.311] New Bot Host Window Handle registered: 0x000333C0
+2: D [2018-04-24 12:01:44.431] 1 running bot instances detected
+2: D [2018-04-24 12:04:43.348] HideAndroidWindow: False, False, True, GUIControl_WM_ACTIVATEAPP->ShowAndroidWindow
+2: D [2018-04-24 12:04:43.349] HideAndroidWindow: False, False, True, GUIControl_WM_ACTIVATEAPP->ShowAndroidWindow
+2: D [2018-04-24 12:04:43.350] Restore bot window to 722, 201, caller: GUIControl_WM_NCACTIVATE
+2: D [2018-04-24 12:06:47.316] HideAndroidWindow: False, False, True, GUIControl_WM_ACTIVATEAPP->ShowAndroidWindow
+2: D [2018-04-24 12:06:47.316] HideAndroidWindow: False, False, True, GUIControl_WM_ACTIVATEAPP->ShowAndroidWindow
+2: D [2018-04-24 12:06:47.317] Restore bot window to 722, 201, caller: GUIControl_WM_NCACTIVATE
+2: D [2018-04-24 12:08:03.344] Restore bot window to 722, 201, caller: GUIControl_WM_NCACTIVATE
+2: D [2018-04-24 12:08:04.434] Restore bot window to 722, 201, caller: GUIControl_WM_NCACTIVATE
+2: D [2018-04-24 12:08:59.779] Restore bot window to 722, 201, caller: GUIControl_WM_NCACTIVATE
+2: D [2018-04-24 12:14:08.655] HideAndroidWindow: False, False, True, GUIControl_WM_ACTIVATEAPP->ShowAndroidWindow
+2: D [2018-04-24 12:14:08.655] HideAndroidWindow: False, False, True, GUIControl_WM_ACTIVATEAPP->ShowAndroidWindow
+2: D [2018-04-24 12:14:08.656] Restore bot window to 722, 201, caller: GUIControl_WM_NCACTIVATE
+2: D [2018-04-24 12:15:32.362] HideAndroidWindow: False, False, True, GUIControl_WM_ACTIVATEAPP->ShowAndroidWindow
+2: D [2018-04-24 12:15:32.362] HideAndroidWindow: False, False, True, GUIControl_WM_ACTIVATEAPP->ShowAndroidWindow
+2: D [2018-04-24 12:15:32.364] Restore bot window to 722, 201, caller: GUIControl_WM_NCACTIVATE
+2: D [2018-04-24 12:29:18.500] HideAndroidWindow: False, False, True, GUIControl_WM_ACTIVATEAPP->ShowAndroidWindow
+2: D [2018-04-24 12:29:18.500] HideAndroidWindow: False, False, True, GUIControl_WM_ACTIVATEAPP->ShowAndroidWindow
+2: D [2018-04-24 12:29:18.501] Restore bot window to 722, 201, caller: GUIControl_WM_NCACTIVATE
